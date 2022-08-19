@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel Martins, programador junior e analista de sistemas!
+## Olá! Eu sou o Gabriel Martins, programador e analista de sistemas!
 
 - 🌱 Estudando: Analise e Desenvolvimento de Sistemas
 - 👯 Desenvolvedor Front End
