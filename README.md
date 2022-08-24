@@ -2,7 +2,7 @@
 
 - 🌱 Estudando: Analise e Desenvolvimento de Sistemas
 - 👯 Desenvolvedor Front End
-- 🕹 Linguagens: JavaScript | HTML | CSS | C++ 
+- 🕹 Linguagens: JavaScript | HTML | CSS | C++ | C#
 
 <div align="Center">
   <a href="https://github.com/GabrielMartinsFerreira">
