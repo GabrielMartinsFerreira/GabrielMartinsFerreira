@@ -20,7 +20,7 @@
   <img align="center" alt="GG-C++" height="32" width="42" src="https://cdn.worldvectorlogo.com/logos/c.svg">
 </div>
 
-## Redes sociais.
+## Redes sociais!
 
 <div> 
   <a href="https://instagram.com/gg_martins20" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
