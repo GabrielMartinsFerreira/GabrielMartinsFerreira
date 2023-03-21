@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/GabrielMartinsFerreira">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GabrielMartinsFerreira&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMartinsFerreira&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMartinsFerreira&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMartinsFerreira&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only"/>
 </div>
 
 ## Tecnologias que estou cursando!
